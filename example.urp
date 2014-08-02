@@ -1,0 +1,5 @@
+library pbkdf2
+allow mime binary
+
+$/option
+example
