@@ -1,3 +1,5 @@
 ffi pbkdf2
 include pbkdf2.h
 link pbkdf2.o
+link -lcrypto
+link -lssl
